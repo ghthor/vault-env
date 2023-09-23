@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"os"
 
-	"sorsops/vault-env/v2/models"
-	"sorsops/vault-env/v2/secrets"
+	"github.com/sorsops/vault-env/v2/models"
+	"github.com/sorsops/vault-env/v2/secrets"
 
 	"github.com/urfave/cli/v2"
 

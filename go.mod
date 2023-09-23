@@ -1,4 +1,4 @@
-module sorsops/vault-env/v2
+module github.com/sorsops/vault-env/v2
 
 go 1.18
 

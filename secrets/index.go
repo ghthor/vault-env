@@ -7,8 +7,8 @@ import (
 	"path/filepath"
 	"strings"
 
-	"sorsops/vault-env/v2/models"
-	"sorsops/vault-env/v2/models/constants"
+	"github.com/sorsops/vault-env/v2/models"
+	"github.com/sorsops/vault-env/v2/models/constants"
 
 	"github.com/hashicorp/vault/api"
 	log "github.com/sirupsen/logrus"

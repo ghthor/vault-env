@@ -8,9 +8,8 @@ import (
 	"path/filepath"
 	"strings"
 
-	"sorsops/vault-env/v2/secrets"
-
-	"sorsops/vault-env/v2/models"
+	"github.com/sorsops/vault-env/v2/models"
+	"github.com/sorsops/vault-env/v2/secrets"
 
 	. "github.com/onsi/ginkgo/v2"
 	. "github.com/onsi/gomega"
